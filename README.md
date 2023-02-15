@@ -12,4 +12,4 @@ Choose template and if you'd like to use Server Side Rendering and TypeScript
 
 Now you'll find the project running on http://localhost:3000/
 
-Now you are ready to start developing
+Now you are ready to start developing. The whole SolidJS App is contained in the my-app folder
